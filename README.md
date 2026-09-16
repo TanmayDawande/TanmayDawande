@@ -26,18 +26,6 @@ Python · C · C++ · Java · basic HTML & CSS
 
 </details>
 
-<details>
-<summary>Codeforces Stats</summary>
-
-<div align="center">
-  <br>
-  <a href="https://codeforces.com/profile/Tanme7">
-    <img src="https://codeforces-readme-stats.vercel.app/api/card?username=Tanme7&theme=transparent&hide_border=true" alt="Codeforces Stats for Tanmay" />
-  </a>
-</div>
-
-</details>
-
 <br>
  
 *Can't sleep at night not knowing how something works.*
