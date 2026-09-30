@@ -14,8 +14,7 @@ I'm a 2nd-year CSE undergrad who started in offensive security, got good enough 
 <details>
 <summary>Currently learning</summary>
 
-AES - the brilliance of it, and getting to know GCM mode.
-ECDH (coming up) - chasing perfect forward secrecy for babel-tcp. Ephemeral keys that die with the session, so a compromised key today doesn't unlock yesterday's traffic.
+OAEP padding and how it exactly works behind the scenes. 
 
 </details>
 
