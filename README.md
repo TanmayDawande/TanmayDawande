@@ -2,19 +2,18 @@
  
 CSE student at VIT Vellore, currently finding cool stuff to get my hands on.
  
-I'm a 2nd-year CSE undergrad who started in offensive security, got good enough at it to realize I liked building resilient systems more than poking holes in fragile ones. I'm dangling somewhere between networking internals and cryptography, actually understanding the low level instead of trusting the abstraction.
+I'm a 2nd-year CSE undergrad who started in offensive security, got good enough at it to realize I liked building resilient systems more than poking holes in fragile ones. I'm dangling somewhere between networking internals and cryptography, actually understanding the low level instead of trusting the abstraction. Lately that includes machine learning for security, where the real question is whether a detector works on attacks it has never seen.
 
 <details>
 <summary>Currently working on</summary>
-
-`babel-tcp` - a TCP protocol built from raw sockets up. No frameworks, just struct-level framing, a real handshake, and me finding out why production networking code is never as simple as the RFC makes it look.
-
+ 
+[`vigil-ids`](https://github.com/TanmayDawande/vigil-ids) - a machine learning network intrusion detector on CIC-IDS-2017.
 </details>
 
 <details>
 <summary>Currently learning</summary>
 
-OAEP padding and how it exactly works behind the scenes. 
+Training and evaluating Random Forest classifiers for ML-based intrusion detection.
 
 </details>
 
